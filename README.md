@@ -11,14 +11,15 @@ In the game, the player controls the movements using a joystick, and the goal of
 
 ### Components Required for the project
 
-- **Arduino board**
+- **Arduino One board**
 - **16x2 LCD screen**
 - **Joystick Module**
-- **Push-button** (for starting or resetting the game)
-- **Buzzer** 
 - **Jumper wires**
 - **Breadboard**
 - **LED Matrix**
+
+[Block Diagram](images/DiagramBlock.jpg)
+[Electric Diagram](images/ElectricDiagram.jpg)
 
 ## Software design
 

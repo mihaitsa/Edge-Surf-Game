@@ -18,6 +18,40 @@ In the game, the player controls the movements using a joystick, and the goal of
 - **Breadboard**
 - **LED Matrix**
 
+### Bill of Materials (BOM)
+
+- **Arduino Uno Board**  
+  - Description: Microcontroller development board  
+  - Quantity: 1  
+  - Datasheet/Link: [Arduino Uno Datasheet](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
+
+- **16x2 LCD Screen**  
+  - Description: Alphanumeric LCD (HD44780 compatible)  
+  - Quantity: 1  
+  - Datasheet/Link: [16x2 LCD Datasheet](https://components101.com/sites/default/files/component_datasheet/16x2-Character-LCD-Module-Datasheet.pdf)
+
+- **Joystick Module**  
+  - Description: Analog joystick with button  
+  - Quantity: 1  
+  - Datasheet/Link: [Joystick Module Datasheet](https://www.electronicoscaldas.com/datasheet/PS2-Joystick.pdf)
+
+- **Jumper Wires**  
+  - Description: Male-to-Male and Male-to-Female wires  
+  - Quantity: ~20  
+  - Datasheet/Link: Generic  
+
+- **Breadboard**  
+  - Description: Breadboard
+  - Quantity: 1   
+  - Datasheet/Link: Generic  
+
+- **8x8 LED Matrix**  
+  - Description: LED matrix with MAX7219 driver  
+  - Quantity: 1  
+  - Datasheet/Link: [MAX7219 Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf)
+
+
+
 [Block Diagram](images/DiagramBlock.jpg)
 [Electric Diagram](images/ElectricDiagram.jpg)
 [Physical Hardware](images/physical.jpg)

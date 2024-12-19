@@ -36,7 +36,7 @@ In the game, the player controls the movements using a joystick, and the goal of
   - Datasheet/Link: [Joystick Module Datasheet](https://www.electronicoscaldas.com/datasheet/PS2-Joystick.pdf)
 
 - **Jumper Wires**  
-  - Description: Male-to-Male and Male-to-Female wires  
+  - Description: Male-to-Male/Male-to-Female wires  
   - Quantity: ~20  
   - Datasheet/Link: Generic  
 

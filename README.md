@@ -20,7 +20,7 @@ In the game, the player controls the movements using a joystick, and the goal of
 
 [Block Diagram](images/DiagramBlock.jpg)
 [Electric Diagram](images/ElectricDiagram.jpg)
-
+[Physical Hardware](images/physical.jpg)
 ## Software design
 
 ## Results
